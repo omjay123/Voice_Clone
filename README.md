@@ -29,7 +29,7 @@ voice-cloning/
 ├── mel_reference.csv        # Input for cloning
 ├── cloned_mel_predictions.csv  Output predictions
 ├── training_curve.png        Training loss plot
-├── report.pdf          Architecture + Results
+├── design_brief.pdf          Architecture + Results
 
 ```
 
