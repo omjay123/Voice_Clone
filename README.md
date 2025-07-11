@@ -38,13 +38,13 @@ voice-cloning/
 ## 🛠 Setup Instructions
 
 ### 1. Clone and Setup
-bash
+```bash
 git clone https://github.com/omjay123/Voice_Clone.git
 cd voice-cloning
 python -m venv venv
 venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
-`
+```
 
 ### 2. Train the Model
 
